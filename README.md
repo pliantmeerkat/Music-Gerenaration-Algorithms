@@ -11,3 +11,9 @@ all files are in c++ 11 other than several js versions of serialism functions , 
 feedback very much apprecieated, all work is strictly amateur and largely poorly written but the basic process work and produce surpirisingly interesting results
 
 all published files may be used by anyone but please ASK permission first !
+
+
+## important ## 
+
+before using any of the c++ code if qt is not installed make sure that all QStrings are replaced by std::strings, otherwise the code will not work! 
+also the js files may include Max 7 objects, reomve these if Max 7 is not used to host the files!
